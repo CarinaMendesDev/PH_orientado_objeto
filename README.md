@@ -1,4 +1,4 @@
-# 🐘 Agenda 9 – Programação Orientada a Objetos (POO) em PHP  
+# 🐘 Programação Orientada a Objetos (POO) em PHP  
 
 Este documento apresenta um resumo detalhado dos principais conceitos de **POO em PHP**, abordando **classes, objetos, encapsulamento e herança**.  
 A Programação Orientada a Objetos ajuda a estruturar o código de forma **organizada, reutilizável e de fácil manutenção**.  
