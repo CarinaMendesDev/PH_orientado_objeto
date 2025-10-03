@@ -111,3 +111,5 @@ Nesta agenda aprendemos:
 ✔️ Como criar classes e objetos em PHP  
 ✔️ O uso do encapsulamento para proteger atributos  
 ✔️ O papel da herança na reutilização e organização do código  
+<img width="649" height="304" alt="image" src="https://github.com/user-attachments/assets/3dec250a-b979-453a-b3f0-ee8fd630b53c" />
+
